@@ -9,7 +9,7 @@ Struktura projektu
 - config_template.py - szablon pliku konfiguracyjnego (skopiuj go jako config.py i dodaj swój klucz API)
 - szablon.html - szablon HTML
 - Generowane automatycznie:
-  - zadanie.txt - plik z artykułem bazowym (generowany automatycznie)
+  - zadanie.txt - plik z artykułem bazowym (pobrany z adresu: https://cdn.oxido.pl/hr/Zadanie%20dla%20JJunior%20AI%20Developera%20-%20tresc%20artykulu.txt)
   - artykul.html - wygenerowany artykuł HTML (generowany automatycznie)
   - podglad.html - ostateczna wersja artykułu HTML w szablonie (generowana automatycznie)
 
